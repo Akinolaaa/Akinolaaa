@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Akinola
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning data science and machine learning on Zero to Mastery(ZTM)
+- 💞️ I’m looking to collaborate on software projects involving Javascript(reactjs), python projects involving machine learning
+- 📫 How to reach me on <a src="www.linkedin.com/in/akinolaakinleye">linkedin/>
