@@ -2,4 +2,4 @@
 - 👀 I’m a software developer and machine learning/AI  enthusiast
 - 🌱 
 - 💞 Working out and long walks
-- 📫 Reach me on [linkedin](www.linkedin.com/in/akinolaakinleye)
+- 📫 Reach me on [linkedin](https://www.linkedin.com/in/akinolaakinleye)
