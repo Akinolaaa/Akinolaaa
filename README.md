@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Akinola
-- 👀 I’m a software developer and machine learning/AI  enthusiast
+- 👀 A Software Engineer and machine learning/AI  enthusiast
 - 🌱 
 - 💞 Working out and long walks
 - 📫 Reach me on [linkedin](https://www.linkedin.com/in/akinola-akinleye)
