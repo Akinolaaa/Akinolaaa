@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Akinola
-- 👀 A Software Engineer and machine learning/AI  enthusiast
+- 👀 A Software Engineer with experience in full-stack web development
 - 🌱 
 - 💞 Working out and long walks
 - 📫 Reach me on [linkedin](https://www.linkedin.com/in/akinola-akinleye)
